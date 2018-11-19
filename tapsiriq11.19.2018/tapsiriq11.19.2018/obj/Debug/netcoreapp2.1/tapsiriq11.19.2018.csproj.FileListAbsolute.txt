@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\tapsiriq11.19.2018\tapsiriq11.19.2018\bin\Debug\netcoreapp2.1\tapsiriq11.19.2018.deps.json
+C:\Users\user\source\repos\tapsiriq11.19.2018\tapsiriq11.19.2018\bin\Debug\netcoreapp2.1\tapsiriq11.19.2018.runtimeconfig.json
+C:\Users\user\source\repos\tapsiriq11.19.2018\tapsiriq11.19.2018\bin\Debug\netcoreapp2.1\tapsiriq11.19.2018.runtimeconfig.dev.json
+C:\Users\user\source\repos\tapsiriq11.19.2018\tapsiriq11.19.2018\bin\Debug\netcoreapp2.1\tapsiriq11.19.2018.dll
+C:\Users\user\source\repos\tapsiriq11.19.2018\tapsiriq11.19.2018\bin\Debug\netcoreapp2.1\tapsiriq11.19.2018.pdb
+C:\Users\user\source\repos\tapsiriq11.19.2018\tapsiriq11.19.2018\obj\Debug\netcoreapp2.1\tapsiriq11.19.2018.csprojAssemblyReference.cache
+C:\Users\user\source\repos\tapsiriq11.19.2018\tapsiriq11.19.2018\obj\Debug\netcoreapp2.1\tapsiriq11.19.2018.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\tapsiriq11.19.2018\tapsiriq11.19.2018\obj\Debug\netcoreapp2.1\tapsiriq11.19.2018.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\tapsiriq11.19.2018\tapsiriq11.19.2018\obj\Debug\netcoreapp2.1\tapsiriq11.19.2018.AssemblyInfo.cs
+C:\Users\user\source\repos\tapsiriq11.19.2018\tapsiriq11.19.2018\obj\Debug\netcoreapp2.1\tapsiriq11.19.2018.dll
+C:\Users\user\source\repos\tapsiriq11.19.2018\tapsiriq11.19.2018\obj\Debug\netcoreapp2.1\tapsiriq11.19.2018.pdb
